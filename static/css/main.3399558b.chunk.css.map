@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CACA,OACE,UAAW,CACX,iBACF,CACA,QACE,UAAW,CACX,eAAiB,CACjB,UACF","file":"main.3399558b.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n.input{\n  margin: 5px;\n  border-radius: 3px;\n}\n.button{\n  margin: 5px;\n  background: black;\n  color: white;\n}\n\n"]}
